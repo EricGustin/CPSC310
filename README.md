@@ -1,2 +1,2 @@
 # iOS-App
-Does not include the main menu background .mp4 file.
+Login, Sign Up, and user defaults implemented. Game scene coming soon.
